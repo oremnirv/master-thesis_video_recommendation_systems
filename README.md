@@ -7,7 +7,7 @@ Multiple models to predict users' next watch in an online video platform - model
 
 ## Setup and execution 
 
-Please enter to the desired folder and read folder specific setup instructions. 
+Please enter to the desired folder and notebook and foloow specific setup instructions. 
 
 
 ## Data 
