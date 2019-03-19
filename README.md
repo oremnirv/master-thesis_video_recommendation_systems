@@ -2,7 +2,8 @@
 
 Multiple models to predict users' next watch in an online video platform - models range from content based methods to collaborative filtering and hybrid models.
 
-* All work is based upon my Master thesis (see full thesis and its adaptation to a research paper above)
+* All work is based upon my Master thesis (see full thesis and its adaptation to a research paper above).
+* Models are implemented with TensorFlow.
 
 
 ## Setup and execution 
